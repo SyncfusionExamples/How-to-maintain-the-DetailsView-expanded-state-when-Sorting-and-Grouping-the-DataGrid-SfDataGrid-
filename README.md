@@ -35,3 +35,5 @@ private void DataGrid_SortColumnsChanged(object sender, GridSortColumnsChangedEv
          }));
 }
 ```
+
+KB article - [How to maintain the DetailsView expanded state when Sorting and Grouping the DataGrid SfDataGrid](https://www.syncfusion.com/kb/11032/how-to-maintain-the-detailsview-expanded-state-when-sorting-and-grouping-the-datagrid)
