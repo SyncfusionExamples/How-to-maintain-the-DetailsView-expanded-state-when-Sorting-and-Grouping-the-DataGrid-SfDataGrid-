@@ -1,4 +1,4 @@
-# How to Maintain the DetailsView Expanded Sstate when Sorting and Grouping the WPF DataGrid?
+# How to Maintain the DetailsView Expanded State when Sorting and Grouping the WPF DataGrid?
 
 This sample show cases how to maintain the DetailsView expanded state when Sorting and Grouping the [WPF DataGrid](https://www.syncfusion.com/wpf-controls/datagrid) (SfDataGrid).
 
@@ -6,7 +6,7 @@ When you are processing the data operation ([Grouping](https://help.syncfusion.c
 
 ### Grouping
 
-You can expand all the `DetailsViewDataGrid` when processing the grouping in `SfDataGrid.GroupColumnDescriptions.CollectionChanged` event. s
+You can expand all the `DetailsViewDataGrid` when processing the grouping in `SfDataGrid.GroupColumnDescriptions.CollectionChanged` event.
 
 ``` Csharp
 this.dataGrid.GroupColumnDescriptions.CollectionChanged += GroupColumnDescriptions_CollectionChanged;
