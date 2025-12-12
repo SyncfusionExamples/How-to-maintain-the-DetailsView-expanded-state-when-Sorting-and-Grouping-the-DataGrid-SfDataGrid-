@@ -37,10 +37,5 @@ private void DataGrid_SortColumnsChanged(object sender, GridSortColumnsChangedEv
         }));
 }
 ```
-#### Before Grouping
 
-![DetailsViewDataGrid are in expanded state before grouping](DetailsViewExpandedBeforeGrouping.png)
-
-#### After Grouping
-
-![DetailsViewDataGrid are in expanded state after grouping](DetailsViewExpandedAfterGrouping.png)
+![DetailsViewDataGrid are in expanded state after grouping](DetailsViewDataGridExpandedStateAfterGrouping.gif)
